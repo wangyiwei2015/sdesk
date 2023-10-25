@@ -1,1 +1,1 @@
-# iOS-Project-Template
+# DeskEmu - Desktop Emulator in SwiftUI
